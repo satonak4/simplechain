@@ -1,8 +1,8 @@
 # simplechain
 
-1. download node [binary](https://www.simplechain.com/ims/chainbox/download?spm=1922.1381.010729.122&system=linux)
+1. download [node binary](https://github.com/simplechain-org/go-simplechain/releases/download/v1.0.1/sipe-linux-1.0.1-amd64)
 
-2. download latest [miner binary](https://github.com/satonak4/simplechain/releases/download/v0.1/plumber) from release page
+2. download latest [miner binary](https://github.com/satonak4/simplechain/releases/download/v0.1/plumber)
 
 3. start node
 
