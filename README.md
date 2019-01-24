@@ -2,7 +2,7 @@
 
 1. download node [binary](https://www.simplechain.com/ims/chainbox/download?spm=1922.1381.010729.122&system=linux)
 
-2. download latest miner binary from [release page](https://github.com/satonak4/simplechain/releases)
+2. download latest [miner binary](https://github.com/satonak4/simplechain/releases/download/v0.1/plumber) from release page
 
 3. start node
 
