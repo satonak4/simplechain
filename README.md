@@ -12,4 +12,6 @@
 
 tar zxvf miner.tar.gz
 
-./miner/plumber
+cd miner
+
+./plumber
