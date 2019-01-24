@@ -2,7 +2,7 @@
 
 1. download [node binary](https://github.com/simplechain-org/go-simplechain/releases/download/v1.0.1/sipe-linux-1.0.1-amd64)
 
-2. download latest [miner binary](https://github.com/satonak4/simplechain/releases/download/v0.1/plumber)
+2. download [miner binary](https://github.com/satonak4/simplechain/releases/download/v0.1/plumber)
 
 3. start node
 
