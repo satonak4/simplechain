@@ -2,7 +2,7 @@
 
 1. 下载 [node](https://github.com/simplechain-org/go-simplechain/releases/download/v1.0.1/sipe-linux-1.0.1-amd64)
 
-2. 下载 [miner](https://github.com/satonak4/simplechain/releases/download/v0.1/plumber)
+2. 下载 [miner](https://github.com/satonak4/simplechain/releases/download/v0.1/miner.tar.gz)
 
 3. 启动node，替换地址
 
