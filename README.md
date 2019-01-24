@@ -14,4 +14,4 @@ tar zxvf miner.tar.gz
 
 cd miner
 
-./plumber
+LD_LIBRARY_PATH=. ./plumber
