@@ -11,4 +11,5 @@
 4. 启动miner
 
 tar zxvf miner.tar.gz
+
 ./miner/plumber
