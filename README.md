@@ -1,4 +1,10 @@
-# 说明
+## Hash Rate
+
+1080: 240 kHashes/s
+
+1080ti: 290 kHashes/s
+
+## Instruction
 
 1. 下载 [node](https://github.com/simplechain-org/go-simplechain/releases/download/v1.0.1/sipe-linux-1.0.1-amd64)
 
