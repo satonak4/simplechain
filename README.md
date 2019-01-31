@@ -1,5 +1,7 @@
 ## Hash Rate
 
+2019/01/31更新
+
 1080: 300 kHashes/s
 
 1080ti: 400 kHashes/s
