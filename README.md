@@ -40,7 +40,7 @@ cd miner
 LD_LIBRARY_PATH=. ./plumber
 ```
 
-### 矿池模式 (未测试）
+### 矿池模式 (未充分测试）
 
 1. 下载 miner
 
