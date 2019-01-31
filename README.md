@@ -1,10 +1,12 @@
 ## Hash Rate
 
-1080: 240 kHashes/s
+1080: 300 kHashes/s
 
-1080ti: 290 kHashes/s
+1080ti: 400 kHashes/s
 
 ## Instruction
+
+目前只支持Ubuntu系统，马上会推出Windows支持
 
 ### Solo 模式
 
@@ -36,7 +38,7 @@ cd miner
 LD_LIBRARY_PATH=. ./plumber
 ```
 
-### 矿池模式
+### 矿池模式 (未测试）
 
 1. 下载 miner
 
