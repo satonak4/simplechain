@@ -14,7 +14,7 @@
 
 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip 并解压缩
 
-### 直接运行
+### 双击运行方式
 
 以文本方式打开run.bat，修改-eth后面的地址，保存退出
 双击run.bat运行
