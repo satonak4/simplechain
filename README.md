@@ -1,14 +1,21 @@
 ## Hash Rate
 
-2019/01/31更新
+2019/02/04更新
+
+1060: 200 kHashes/s
 
 1080: 300 kHashes/s
 
-1080ti: 400 kHashes/s
+1080ti: 500 kHashes/s
 
-## Instruction
+# Instruction
 
-目前只支持Ubuntu系统，马上会推出Windows支持
+## Windows程序
+
+下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip
+加压缩，执行roofer.exe
+
+## Ubuntu
 
 ### Solo 模式
 
