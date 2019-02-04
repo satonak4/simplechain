@@ -61,23 +61,3 @@ cd miner
 
 LD_LIBRARY_PATH=. ./plumber
 ```
-
-### 矿池模式 (未充分测试）
-
-1. 下载 miner
-
-```
-wget https://github.com/satonak4/simplechain/releases/download/v0.1/miner.tar.gz
-```
-
-2. 启动miner
-
-```
-tar zxvf miner.tar.gz
-
-cd miner
-
-LD_LIBRARY_PATH=. ./plumber -addr="127.0.0.1:8888"
-```
-
-将127.0.0.1:8888改成矿池地址
