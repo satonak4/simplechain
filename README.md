@@ -10,7 +10,7 @@
 
 # Instruction
 
-## Windows程序
+## Windows 10系统
 
 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip 并解压缩
 
@@ -30,7 +30,7 @@ roofer.exe -eth="0x83853d3d5cd1c388e0fa8cebc613216ce1ad5b70"
 roofer.exe -eth="0x83853d3d5cd1c388e0fa8cebc613216ce1ad5b70" -addr="sipc.matpool.io:11100"
 ```
 
-## Ubuntu
+## Ubuntu系统
 
 ### Solo 模式
 
