@@ -14,6 +14,13 @@
 
 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip 并解压缩
 
+### 直接运行
+
+以文本方式打开run.bat，修改-eth后面的地址，保存退出
+双击run.bat运行
+
+### 命令行方式运行
+
 打开命令行，进入到刚才解压缩出来的目录，运行roofer.exe，替换地址。默认接入matpool
 ```
 roofer.exe -eth="0x83853d3d5cd1c388e0fa8cebc613216ce1ad5b70"
