@@ -12,8 +12,16 @@
 
 ## Windows程序
 
-下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip
-加压缩，执行roofer.exe
+下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip 并解压缩
+
+运行roofer.exe，替换地址。默认接入matpool
+```
+roofer.exe -eth="0x83853d3d5cd1c388e0fa8cebc613216ce1ad5b70"
+```
+如果需要接入其它矿池，添加
+```
+roofer.exe -eth="0x83853d3d5cd1c388e0fa8cebc613216ce1ad5b70" -addr="sipc.matpool.io:11100"
+```
 
 ## Ubuntu
 
