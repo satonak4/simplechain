@@ -8,7 +8,7 @@
 
 1080ti: 500 kHashes/s
 
-# Instruction
+# 使用说明
 
 ## Windows 10系统
 
@@ -52,7 +52,7 @@ chmod +x ./sipe-linux-1.0.0-amd64 && ./sipe-linux-1.0.0-amd64 --etherbase 0x9c7c
 wget https://github.com/satonak4/simplechain/releases/download/v0.1/miner.tar.gz
 ```
 
-4. 启动miner
+4. 启动上 miner
 
 ```
 tar zxvf miner.tar.gz
