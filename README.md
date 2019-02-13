@@ -12,7 +12,11 @@
 
 ## Windows 10系统
 
-下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip 并解压缩
+**单卡版本** 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip
+
+**多卡版本** 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.2/win_ngpu.zip
+
+下载后解压缩zip文件
 
 ### 双击运行方式
 
@@ -28,6 +32,12 @@ roofer.exe -eth="0x83853d3d5cd1c388e0fa8cebc613216ce1ad5b70"
 如果需要接入其它矿池，添加
 ```
 roofer.exe -eth="0x83853d3d5cd1c388e0fa8cebc613216ce1ad5b70" -addr="sipc.matpool.io:11100"
+```
+
+### 运行错误
+
+```diff
+- 如果遇到GPU运行错误的情况，请到 https://www.geforce.cn/drivers 下载并安装最新的显卡驱动程序
 ```
 
 ## Ubuntu系统
