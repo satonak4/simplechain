@@ -1,12 +1,12 @@
 ## Hash Rate
 
-2019/02/04更新
+2019/02/16更新
 
-1060: 200 kHashes/s
+1060: 360 kHashes/s
 
-1080: 300 kHashes/s
+1080: 540 kHashes/s
 
-1080ti: 500 kHashes/s
+1080ti: 900 kHashes/s
 
 # 使用说明
 
