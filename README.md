@@ -2,11 +2,9 @@
 
 2019/02/16更新
 
-1060: 320 kHashes/s
+1060: 370 kHashes/s
 
-1080: 480 kHashes/s
-
-1080ti: 800 kHashes/s
+1080ti: 750 kHashes/s
 
 # 使用说明
 
