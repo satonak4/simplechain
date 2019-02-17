@@ -14,7 +14,7 @@
 
 **单卡版本** 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.1/win32.zip
 
-**多卡版本** 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.2/win_ngpu.zip
+**多卡版本** 下载地址 https://github.com/satonak4/simplechain/releases/download/v0.2.1/win_ngpu.zip
 
 下载后解压缩zip文件
 
