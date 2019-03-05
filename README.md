@@ -4,7 +4,7 @@
 
 1060: 410 kHashes/s
 
-1080ti: 800 kHashes/s
+1080ti: 850 kHashes/s
 
 # 使用说明
 
